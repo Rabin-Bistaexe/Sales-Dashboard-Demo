@@ -21,19 +21,22 @@ The dataset has 141 sales executives from different regions. Each person has a d
 - Highest target achievement: also Jagdish Chandra (77.8%)
 - Quite a few people are struggling to reach even 40-50% of the target
 
+
 ### Dashboard Screenshots
 
 **Top 5 Sales Executives by Total Sales**
 
-![Top Sales].<img width="605" height="282" alt="top-sales" src="https://github.com/user-attachments/assets/85801fa9-305f-455a-b384-74a3944af5bc" />
+<img width="605" height="282" alt="top-sales" src="https://github.com/user-attachments/assets/85801fa9-305f-455a-b384-74a3944af5bc" />
 
 **Target Hit %**
 
-![Target Hit].<img width="325" height="530" alt="target-hit" src="https://github.com/user-attachments/assets/29b1002c-a509-4f61-91ba-29fee81acc61" />
+<img width="325" height="530" alt="target-hit" src="https://github.com/user-attachments/assets/29b1002c-a509-4f61-91ba-29fee81acc61" />
 
 **Executives Farthest from Target**
 
-![Target Away].<img width="473" height="540" alt="target-away" src="https://github.com/user-attachments/assets/e76ba067-7067-4e77-b03b-ce109a78403a" />
+<img width="473" height="540" alt="target-away" src="https://github.com/user-attachments/assets/e76ba067-7067-4e77-b03b-ce109a78403a" />
+
+
 
 ### How to view it
 Just download the Excel file and open the "MY_DASHBOARD" sheet.
