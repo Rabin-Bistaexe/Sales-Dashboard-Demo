@@ -34,7 +34,6 @@ The dataset has 141 sales executives from different regions. Each person has a d
 ![Target Away](target-away.png)
 
 
-
 ### How to view it
 Just download the Excel file and open the "MY_DASHBOARD" sheet.
 
